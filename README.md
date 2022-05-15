@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ken-ThankGod</h1>
-<h3 align="center">A passionate fullstack JavaScript developer from Nigeria</h3>
-
+<h3 align="center">A passionate fullstack JavaScript developer from Nigeria 🇳🇬 | avid reader 📖 | football ⚽ | talk to me about JavaScript 👨‍💻</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenthankgod&label=Profile%20views&color=0e75b6&style=flat" alt="kenthankgod" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenthankgod" alt="kenthankgod" /></a> </p>
